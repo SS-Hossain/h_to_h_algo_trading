@@ -43,6 +43,7 @@ This ensures we identify **momentum shifts** and potential bullish trends.
 
 ```
 h_to_h_algo_trading/
+├── assets            # Terminal Output, Telegram Alert Message, Algo_Trading_Log spreadsheet
 ├── data/             # Reserved for future data files or exports
 ├── models/           # Stores trained ML models (e.g., decision_tree_model.pkl)
 ├── utils/            # Utility scripts (e.g., telegram_alert, Google Sheet logger)
