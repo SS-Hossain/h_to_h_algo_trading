@@ -92,12 +92,7 @@ python main.py
 ```
 
 ---
-## 🔍 Sample Output
 
-Here’s a snapshot of the strategy and ML model logs:
-
-![Buy Signals Log](E:\h_to_h_algo_trading\assets\screenshot1.png)
-![ML Accuracy Log](E:\h_to_h_algo_trading\assets\screenshot2.png)
 
 ---
 
@@ -125,8 +120,6 @@ This project includes real-time **Telegram notifications** whenever a buy signal
    TELEGRAM_CHAT_ID=your_telegram_chat_id
    ```
 
-4.  **Here is a snapshot of Telegram Alert that has been sent to telegram bot** 
-    ![Telegram_Alert](E:\h_to_h_algo_trading\assets\screenshot3.png)
 
 ## 📌 Notes
 
